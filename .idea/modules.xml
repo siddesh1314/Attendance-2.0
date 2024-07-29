@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/epitome2.iml" filepath="$PROJECT_DIR$/epitome2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/epitome2_android.iml" filepath="$PROJECT_DIR$/android/epitome2_android.iml" />
+    </modules>
+  </component>
+</project>
